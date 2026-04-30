@@ -22,7 +22,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
 
 1️⃣ Clonar el repositorio
 
-  ``git clone https://github.com/cossiovd/vet.git``
+  ``git clone https://github.com/dcossiodev/vet.git``
 
 2️⃣ Navegar al directorio del proyecto
 
